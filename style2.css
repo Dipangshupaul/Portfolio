@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border-radius: 30px;
+    
+}
+body{
+    background: #2e8d86;
+
+
+}
+
+.container{
+    width: 90%;
+    margin: 80px auto;
+}
+
+.container h1{
+    padding:60px 0 ;
+    color:#fff;
+    font-size: 44px;
+    text-align: center;
+}
+.Vedios{
+    
+    box-sizing: border-box;
+    border-radius: 30px;
+    display: flex;
+     justify-content: space-between;
+    max-width: 100%;
+}
+
+
+
